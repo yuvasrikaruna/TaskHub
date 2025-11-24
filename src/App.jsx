@@ -32,7 +32,7 @@ export default function App() {
   }
 
   return (
-    <div>
+    <div className='App'>
       <header>
         <h1>TaskMan</h1>
         <p><i>Your friendly Task Manager</i></p>
