@@ -93,9 +93,10 @@ header p {
   align-items: center;
   gap: 8px;
   padding: 12px;
-  border: 1px solid #eeeeee;
+  border: 1px solid #2A2A2A;
   border-radius: 8px;
-  background: gainsboro;
+  background: #1E1E1E;      /* Dark card */
+  color: #E4E4E7;           /* Visible text */
 }
 
 .task-list li.completed {
